@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "new doc 05-19-2023 15.28_1.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "centimeters",
+    "width" : 10
+  }
+}
